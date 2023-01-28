@@ -109,7 +109,7 @@ background-color: #fff;
     transform: translateY(46px);
     width: 100%;
     padding-top: 50%;
-    background: url(/acces/image/slider1.jpg) ;
+    background: url(./acces/image/slider1.jpg) ;
     background-size: 100%;
     background-repeat: no-repeat;
 }
